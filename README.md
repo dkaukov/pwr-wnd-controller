@@ -6,6 +6,7 @@ This is firmware for the custom-built 3ch power window controller, using Arduino
 * 1x DFRduino Pro Mini V1.3(16M5V328)
 * 3x ACS711 Current Sensor Carrier -25 to +25A
 * 1x 8 Channels 5V Relay Module
+
 Approximate cost: $60US
 
 # Features
